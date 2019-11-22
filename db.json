@@ -11,8 +11,8 @@
               "expired_date": null,
               "code": "CODE",
               "name": "John Doe",
-              "balance": "10000"
-              "deposit": "1000"
+              "balance": "10000",
+              "deposit": "1000",
               "email": "john.doe@mail.com",
               "phone": "0123456789",
               "status": "1",
