@@ -4,11 +4,7 @@
         "result": {
               "id": "1",
               "account_type_id": "1",
-              "account_type_name": null,
-              "account_type_status": null,
-              "sales_schedule_id": null,
               "register_date": "2019-08-07 20:10:00",
-              "expired_date": null,
               "code": "CODE",
               "name": "John Doe",
               "balance": "10000",
