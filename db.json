@@ -1,7 +1,8 @@
 {
   "accounts" : {
         "status": 1,
-        "result": {
+        "result": [
+          {
               "id": "1",
               "account_type_id": "1",
               "register_date": "2019-08-07 20:10:00",
@@ -16,6 +17,23 @@
               "create_by": "1",
               "last_update": "2019-08-07 20:00:00",
               "last_update_by": "1"
-       }
+         },
+         {
+              "id": "2",
+              "account_type_id": "1",
+              "register_date": "2019-08-07 20:10:00",
+              "code": "CODE",
+              "name": "John D",
+              "balance": "10000",
+              "deposit": "1000",
+              "email": "john.d@umail.com",
+              "phone": "0123456789",
+              "status": "1",
+              "create_date": "2019-08-07 20:00:00",
+              "create_by": "1",
+              "last_update": "2019-08-07 20:00:00",
+              "last_update_by": "1"
+        }
+      ]
    }
 }
